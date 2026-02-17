@@ -8,7 +8,7 @@ I’m passionate about building scalable, secure, and high-performance enterpris
 
 ## 🚀 What I Do
 
-- 🔹 Design and develop **scalable microservices** using Java & Spring Boot  
+- 🔹 Design and develop **scalable microservices** using Java, Spring Boot & Node.js
 - 🌐 Build responsive **frontend applications** using React & Angular  
 - 🔐 Implement secure authentication with **OAuth 2.0 & JWT**  
 - 📡 Develop event-driven systems using **Apache Kafka**  
