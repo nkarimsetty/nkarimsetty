@@ -1,44 +1,57 @@
 # 👋 Hi, I'm Nikhitha Karimsetty
 
-🎯 **Data Analyst | BI Developer | ETL Automation Specialist**
+💻 **Full Stack Java Developer | Cloud-Native Engineer | Microservices Specialist**
 
-I’m passionate about turning raw data into actionable insights through clean pipelines, stunning dashboards, and predictive analytics. My work spans across industries, helping teams make informed, data-driven decisions with confidence.
+I’m passionate about building scalable, secure, and high-performance enterprise applications using modern Java technologies and cloud-native architectures. My experience spans Retail, Finance, and Telecommunications domains, helping teams deliver reliable systems and seamless digital experiences.
 
 ---
 
-## 🧠 What I Do
+## 🚀 What I Do
 
-- 🔄 Build and automate **ETL pipelines** to streamline data flow  
-- 📊 Develop interactive **dashboards** in Power BI, Tableau, and Looker  
-- 📈 Deliver **predictive analytics** using machine learning and forecasting  
-- 🔬 Perform **A/B testing**, business analysis, and **data storytelling**  
+- 🔹 Design and develop **scalable microservices** using Java & Spring Boot  
+- 🌐 Build responsive **frontend applications** using React & Angular  
+- 🔐 Implement secure authentication with **OAuth 2.0 & JWT**  
+- 📡 Develop event-driven systems using **Apache Kafka**  
+- ☁️ Deploy cloud-native applications using **AWS, Docker & Kubernetes**  
+- 🔄 Create automated **CI/CD pipelines** for seamless deployments  
+- ⚡ Optimize databases and improve performance using **Redis caching & query tuning**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages  
-- Python, R, SQL, DAX, M Language  
+### 👩‍💻 Programming Languages  
+- Java (8/11/17), JavaScript (ES6+), TypeScript, Python, SQL, PL/SQL  
 
-### 📊 BI Tools  
-- Power BI, Tableau, Looker, Google Data Studio  
+### 🌐 Frontend  
+- React, Redux, Angular, TypeScript, HTML5, CSS3, Bootstrap, Material-UI  
 
-### 🔁 ETL & Orchestration  
-- Apache Airflow, SSIS, Informatica, Azure Data Factory, Alteryx  
+### 🔧 Backend  
+- Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Spring Cloud, Node.js  
 
-### 🗃️ Databases / Warehouses  
-- Snowflake, BigQuery, Redshift, SQL Server, MySQL, PostgreSQL  
+### 🔗 APIs & Architecture  
+- RESTful APIs, Swagger/OpenAPI, Microservices Architecture, Event-Driven Systems  
+
+### 🗄️ Databases  
+- PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, DynamoDB  
+
+### 📡 Messaging & Streaming  
+- Apache Kafka, AWS SQS, AWS SNS  
 
 ### ☁️ Cloud Platforms  
-- **AWS**: S3, Athena, QuickSight  
-- **Azure**: Synapse  
-- **GCP**: BigQuery, Looker  
+- **AWS**: EC2, S3, Lambda, RDS, ECS, EKS, CloudFormation, API Gateway, CloudWatch  
+- Azure  
+- GCP  
 
-### 📚 Data Science Libraries  
-- pandas, NumPy, scikit-learn, matplotlib, seaborn, ggplot2  
+### 🔄 DevOps & CI/CD  
+- Docker, Kubernetes  
+- Jenkins, GitHub Actions, GitLab CI/CD  
+
+### 🧪 Testing & Monitoring  
+- JUnit, Mockito, Jest, React Testing Library  
+- ELK Stack, Prometheus, Grafana, AWS CloudWatch  
 
 ---
 
 📫 **Let's Connect**  
-Feel free to reach out for collaborations, ideas, or just to talk data!
-
+Feel free to reach out for collaborations, backend engineering discussions, cloud architecture ideas, or full stack development opportunities!
